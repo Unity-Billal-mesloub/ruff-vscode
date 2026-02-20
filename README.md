@@ -26,7 +26,7 @@ The extension ships with `ruff==0.15.0`.
 
 ### "Format Document": Black-compatible code formatting
 
-![Using the "Format Document" action to format Python source code](https://github.com/Unity-Billal-mesloub/ruff-lsp/assets/1309177/51c27215-87fb-490c-b1d6-ee81ab4171a1)
+![Using the "Format Document" action to format Python source code](https://github.com/Unity-Billal-mesloub/ruff-lsp/assets)
 
 ### "Organize Imports": `isort`-compatible import sorting
 
