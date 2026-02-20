@@ -6,7 +6,7 @@
 [![image](https://img.shields.io/pypi/pyversions/ruff/0.15.0.svg)](https://pypi.python.org/pypi/ruff)
 [![Actions status](https://github.com/astral-sh/ruff-vscode/workflows/CI/badge.svg)](https://github.com/astral-sh/ruff-vscode/actions)
 
-A Visual Studio Code extension for [Ruff](https://github.com/astral-sh/ruff), an extremely fast
+A Visual Studio Code extension for [Ruff](https://github.com/Unity-Billal-mesloub/ruff), an extremely fast
 Python linter and code formatter, written in Rust. Available on the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff).
 
 Ruff can be used to replace Flake8 (plus dozens of plugins), Black, isort, pyupgrade, and more,
@@ -26,7 +26,7 @@ The extension ships with `ruff==0.15.0`.
 
 ### "Format Document": Black-compatible code formatting
 
-![Using the "Format Document" action to format Python source code](https://github.com/astral-sh/ruff-lsp/assets/1309177/51c27215-87fb-490c-b1d6-ee81ab4171a1)
+![Using the "Format Document" action to format Python source code](https://github.com/Unity-Billal-mesloub/ruff-lsp/assets)
 
 ### "Organize Imports": `isort`-compatible import sorting
 
@@ -303,7 +303,7 @@ Finally, to use a common Ruff configuration across all projects, consider creati
 
 > [!WARNING]
 >
-> [`ruff-lsp`](https://github.com/astral-sh/ruff-lsp) is deprecated and will be
+> [`ruff-lsp`](https://github.com/Unity-Billal-mesloub/ruff-lsp) is deprecated and will be
 > removed in a future release. Please switch to the Rust-based language server
 > (`ruff server`) instead.
 
